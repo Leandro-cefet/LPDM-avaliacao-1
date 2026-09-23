@@ -1,0 +1,35 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Arquivos e pastas de build (não devem ir para o repositório)
+/build
+*.iml
+
+# Configurações locais da IDE (apenas exceções recomendadas ficam)
+.idea/*
+!.idea/codeStyles
+!.idea/runConfigurations
+
+# Arquivo de propriedades locais (contém caminho do SDK e dados sensíveis)
+local.properties
+
+# Arquivos temporários do macOS e Windows
+.DS_Store
+Thumbs.db
+
+# Pastas de cache e capturas
+/.gradle
+/captures
+
